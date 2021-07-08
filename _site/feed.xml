@@ -1,5 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-05T23:22:05+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210705 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210705 결과" /><published>2021-07-05T23:30:00+09:00</published><updated>2021-07-05T23:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;&lt;strong&gt;목표 : 백준 문풀하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-09T00:37:42+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>Author Name</name><email>vika@kaptn.ru</email></author><entry><title type="html">210708 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210708 결과" /><published>2021-07-08T22:50:00+09:00</published><updated>2021-07-08T22:50:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;&lt;strong&gt;공부한 내용 밢표&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;코드리뷰&lt;/li&gt;
+  &lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;코드를 공유하며 각자 보완해야할 점과 더 나은 점에 대한 리뷰를 함.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;while,문 활용 시간초과 오류&amp;gt;
+코드에 대한 보완점을 찾고 다음회차에 보완점을 공유하기로 함.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/1st.pptx&quot;&gt;1st.pptx&lt;/a&gt;&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">공부한 내용 밢표</summary></entry><entry><title type="html">210708 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210708-2.html" rel="alternate" type="text/html" title="210708 모각코 목표" /><published>2021-07-08T20:11:45+09:00</published><updated>2021-07-08T20:11:45+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210708-2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210708-2.html">&lt;p&gt;&lt;strong&gt;발표 및 Q&amp;amp;A&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;코드 리뷰 및 발표와 질문받기&lt;/li&gt;
+  &lt;li&gt;어려운 부분 질문하고 해결책 고민하기(코드 런타임 시간 단축법)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;https://www.acmicpc.net/problem/15552&lt;/p&gt;</content><author><name>Author Name</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 Q&amp;amp;A</summary></entry><entry><title type="html">210705 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210705 결과" /><published>2021-07-05T23:30:00+09:00</published><updated>2021-07-05T23:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;&lt;strong&gt;목표 : 백준 문풀하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;if문 : clear&lt;/li&gt;
   &lt;li&gt;for문 : 10/11&lt;/li&gt;
