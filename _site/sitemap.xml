@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
+        <loc>https://future-imperfect.kaptn.ru/mgc/2021/210712_2.html</loc>
+    </url>
+
+    <url>
         <loc>https://future-imperfect.kaptn.ru/mgc/2021/210712_1.html</loc>
     </url>
 
@@ -47,15 +51,11 @@
     </url>
 
     <url>
-        <loc>https://future-imperfect.kaptn.ru/mgc/</loc>
-    </url>
-
-    <url>
         <loc>https://future-imperfect.kaptn.ru/instruction/</loc>
     </url>
 
     <url>
-        <loc>https://future-imperfect.kaptn.ru/</loc>
+        <loc>https://future-imperfect.kaptn.ru/mgc/</loc>
     </url>
 
     <url>
@@ -68,14 +68,6 @@
 
     <url>
         <loc>https://future-imperfect.kaptn.ru/robots.txt</loc>
-    </url>
-
-    <url>
-        <loc>https://future-imperfect.kaptn.ru/robots.txt</loc>
-    </url>
-
-    <url>
-        <loc>https://future-imperfect.kaptn.ru/sitemap.xml</loc>
     </url>
 
     <url>
