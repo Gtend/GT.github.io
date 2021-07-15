@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-15T19:54:19+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html">&lt;p&gt;&lt;strong&gt;발표 및 Q&amp;amp;A&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-15T22:59:00+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210715 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html" rel="alternate" type="text/html" title="210715 결과" /><published>2021-07-15T23:00:00+09:00</published><updated>2021-07-15T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_2.html">&lt;p&gt;&lt;strong&gt;목표  :  실습 문제풀이 하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Icecream : 발표완료&lt;/li&gt;
+  &lt;li&gt;kingdom : 다음주까지 각자 문풀 후 설명 예정&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;이룬 점 : 난이도 높은 문제를 풀음. 각 코드를 보며 보완함.
+이루지 못한 점 : 남은 문제를 풀 시간이 없었음. 다음주에 발표 예정.&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습</summary></entry><entry><title type="html">210715 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html" rel="alternate" type="text/html" title="210715 모각코 목표" /><published>2021-07-15T20:00:00+09:00</published><updated>2021-07-15T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210715_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210715_1.html">&lt;p&gt;&lt;strong&gt;발표 및 Q&amp;amp;A&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;코드 및 설명 발표 후 수정할 부분이나 개선할 점 토의하기&lt;/li&gt;
@@ -71,13 +79,4 @@
 
 &lt;h3 id=&quot;해결&quot;&gt;해결:&lt;/h3&gt;
 
-&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry><entry><title type="html">Blog Setup</title><link href="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html" rel="alternate" type="text/html" title="Blog Setup" /><published>2021-06-23T07:00:00+09:00</published><updated>2021-06-23T07:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/instruction/2021/blog-setup</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/instruction/2021/blog-setup.html">&lt;p&gt;jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;requirement : ruby-bundler&lt;/li&gt;
-  &lt;li&gt;http://labs.brandi.co.kr/2018/05/14/chunbs.html&lt;/li&gt;
-  &lt;li&gt;Theme1: http://jekyllthemes.org/themes/israh/&lt;/li&gt;
-  &lt;li&gt;Theme2: http://jekyllthemes.org/themes/Pinghsu-Theme/&lt;/li&gt;
-  &lt;li&gt;Theme3: http://jekyllthemes.org/themes/Kross-portfolio-theme/&lt;/li&gt;
-  &lt;li&gt;Theme4(*): http://jekyllthemes.org/themes/future-imperfect/&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">jeykll admin : https://github.com/jekyll/jekyll-admin/blob/master/README.md</summary></entry></feed>
+&lt;p&gt;sudo apt install build-essential ruby-dev make gcc&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="instruction" /><summary type="html">오류:</summary></entry></feed>
