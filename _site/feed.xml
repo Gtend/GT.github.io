@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T20:04:00+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html">&lt;p&gt;&lt;strong&gt;자바 심화내용 공부&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-19T23:03:51+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210719 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;&lt;strong&gt;BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/3st.pptx&quot;&gt;3st.pptx&lt;/a&gt;&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html">&lt;p&gt;&lt;strong&gt;자바 심화내용 공부&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;배경 : 여러 문제를 푸는 도중 스캐너 이용시 런타임오류의 가능성을 확인하고 buffer reader, writer 사용의 필요성을 느낌&lt;/p&gt;
 
@@ -60,16 +62,4 @@
   &lt;li&gt;if문&lt;/li&gt;
   &lt;li&gt;for문&lt;/li&gt;
   &lt;li&gt;while문&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 백준문제풀이 하며 자바 복습 if문 for문 while문</summary></entry><entry><title type="html">2021 하계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html" rel="alternate" type="text/html" title="2021 하계 모각코 개인별 목표 설정" /><published>2021-06-23T17:30:00+09:00</published><updated>2021-06-23T17:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
-&lt;h3 id=&quot;학번-이름--202102552-유채민&quot;&gt;😀학번, 이름 : 202102552, 유채민&lt;/h3&gt;
-&lt;h3 id=&quot;목표--자바-복습-및-심화과정-공부&quot;&gt;🎡목표 : 자바 복습 및 심화과정 공부&lt;/h3&gt;
-
-&lt;h3 id=&quot;일정-&quot;&gt;📄일정 :&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1회차[7/5],  문풀 및 복습&lt;/li&gt;
-  &lt;li&gt;2회차[7/8],  발표&lt;/li&gt;
-  &lt;li&gt;3회차[7/12],  문풀 및 복습&lt;/li&gt;
-  &lt;li&gt;4회차[7/15],  발표&lt;/li&gt;
-  &lt;li&gt;5회차[7/19],  심화과정 공부 with Java의 정석&lt;/li&gt;
-  &lt;li&gt;6회차[7/22],  발표&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">하계 모각코 개인 목표 설정 😀학번, 이름 : 202102552, 유채민 🎡목표 : 자바 복습 및 심화과정 공부</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 백준문제풀이 하며 자바 복습 if문 for문 while문</summary></entry></feed>
