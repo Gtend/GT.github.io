@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-22T21:08:12+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210722 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html" rel="alternate" type="text/html" title="210722 모각코 목표" /><published>2021-07-22T20:00:00+09:00</published><updated>2021-07-22T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html">&lt;p&gt;&lt;strong&gt;발표 및 전 시간 코드 라뷰&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-07-22T22:57:01+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">210722 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722_2.html" rel="alternate" type="text/html" title="210722 결과" /><published>2021-07-22T23:00:00+09:00</published><updated>2021-07-22T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722_2.html">&lt;p&gt;&lt;strong&gt;발표 및 전 시간 코드 리뷰&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;조원들의 발표듣고 이해하기 : clear&lt;/li&gt;
+  &lt;li&gt;발표하고 전 시간 코드 리뷰하기 : clear&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;이룬 점 : 심화학습 내용 이해하기, 코드 리뷰 이해&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 전 시간 코드 리뷰</summary></entry><entry><title type="html">210722 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html" rel="alternate" type="text/html" title="210722 모각코 목표" /><published>2021-07-22T20:00:00+09:00</published><updated>2021-07-22T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210722_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210722_1.html">&lt;p&gt;&lt;strong&gt;발표 및 전 시간 코드 리뷰&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;조원들의 발표듣고 이해하기.&lt;/li&gt;
   &lt;li&gt;발표하고 전 시간 코드 리뷰하기.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 전 시간 코드 라뷰</summary></entry><entry><title type="html">210719 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;&lt;strong&gt;BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작&lt;/strong&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 전 시간 코드 리뷰</summary></entry><entry><title type="html">210719 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html" rel="alternate" type="text/html" title="210719 결과" /><published>2021-07-19T23:00:00+09:00</published><updated>2021-07-19T23:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_2.html">&lt;p&gt;&lt;strong&gt;BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/3st.pptx&quot;&gt;3st.pptx&lt;/a&gt;&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">BufferedWriter &amp;amp;&amp;amp; BufferedReader 공부 및 발표자료 제작</summary></entry><entry><title type="html">210719 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html" rel="alternate" type="text/html" title="210719 모각코 목표" /><published>2021-07-19T20:00:00+09:00</published><updated>2021-07-19T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210719_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210719_1.html">&lt;p&gt;&lt;strong&gt;자바 심화내용 공부&lt;/strong&gt;&lt;/p&gt;
 
@@ -54,12 +61,4 @@
   &lt;li&gt;어려운 부분 질문하고 해결책 고민하기(코드 런타임 시간 단축법)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;https://www.acmicpc.net/problem/15552&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 Q&amp;amp;A</summary></entry><entry><title type="html">210705 결과</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html" rel="alternate" type="text/html" title="210705 결과" /><published>2021-07-05T23:30:00+09:00</published><updated>2021-07-05T23:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210705_2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210705_2.html">&lt;p&gt;&lt;strong&gt;목표 : 백준 문풀하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;if문 : clear&lt;/li&gt;
-  &lt;li&gt;for문 : 10/11&lt;/li&gt;
-  &lt;li&gt;while문 : clear&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;이룬 점 :  자바 기초를 복습함
-이루지 못한 점 :  for문 단계에서 한 문제를 풀지 못함.&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 백준 문풀하며 자바 복습 if문 : clear for문 : 10/11 while문 : clear</summary></entry></feed>
+&lt;p&gt;https://www.acmicpc.net/problem/15552&lt;/p&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">발표 및 Q&amp;amp;A</summary></entry></feed>
