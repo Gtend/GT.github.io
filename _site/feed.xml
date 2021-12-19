@@ -1,5 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-12-20T04:14:04+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
-</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">2021-22 동계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 개인별 목표 설정" /><published>2021-12-20T03:30:00+09:00</published><updated>2021-12-20T03:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://future-imperfect.kaptn.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://future-imperfect.kaptn.ru/" rel="alternate" type="text/html" /><updated>2021-12-20T05:12:41+09:00</updated><id>https://future-imperfect.kaptn.ru/feed.xml</id><title type="html">Github Blog</title><subtitle>Blog with theme Future Imperfect&lt;br&gt;
+</subtitle><author><name>유채민</name><email>vika@kaptn.ru</email></author><entry><title type="html">2021 겨울방학 모각코 활동 계획</title><link href="https://future-imperfect.kaptn.ru/kte/2021/211220.html" rel="alternate" type="text/html" title="2021 겨울방학 모각코 활동 계획" /><published>2021-12-20T04:30:00+09:00</published><updated>2021-12-20T04:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/kte/2021/211220</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/kte/2021/211220.html">&lt;h2&gt;Kotlin-e 동아리 모각코 활동계획&lt;/h2&gt;
+&lt;h3 id=&quot;동아리명-의미&quot;&gt;동아리명 의미&lt;/h3&gt;
+&lt;h4&gt;Kotlin + e&lt;/h4&gt;
+
+&lt;h3 id=&quot;활동-주제&quot;&gt;활동 주제&lt;/h3&gt;
+&lt;h4&gt;- 코틀린 공부 및 안드로이드 화면 디자인&lt;/h4&gt;
+
+&lt;h3 id=&quot;활동-형태-총-6회&quot;&gt;활동 형태 (총 6회)&lt;/h3&gt;
+&lt;h4&gt;목요일 3회는 각자 주제를 가지고 공부&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/13, 1/20, 1/27  &amp;amp;  21시 00분~23시 59분  &amp;amp; GatherTown or 디스코드 사용&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;- 일요일 3회는 공부한 내용을 발표 후 토론(학습내용 공유)[세미나 형태]&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;1/16, 1/23, 1/30  &amp;amp;  22시 00분~00시 59분  &amp;amp;  GatherTown or 디스코드 사용&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;동아리원-목록&quot;&gt;동아리원 목록&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;소속학과&lt;/th&gt;
+      &lt;th&gt;학년&lt;/th&gt;
+      &lt;th&gt;이름&lt;/th&gt;
+      &lt;th&gt;학번&lt;/th&gt;
+      &lt;th&gt;깃허브 아이디&lt;/th&gt;
+      &lt;th&gt;블로그 주소&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;유채민&lt;/td&gt;
+      &lt;td&gt;202102552&lt;/td&gt;
+      &lt;td&gt;yu93004893@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://gtend.github.io/mgc/&quot;&gt;gtend.github.io/mgc/&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;이현&lt;/td&gt;
+      &lt;td&gt;202102557&lt;/td&gt;
+      &lt;td&gt;hyunlee1247@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://dotkr.github.io/mgc/&quot;&gt;dotkr.github.io/mgc&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;김재현&lt;/td&gt;
+      &lt;td&gt;202102542&lt;/td&gt;
+      &lt;td&gt;jackandy338@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://jjaehyun2.github.io/mgc/&quot;&gt;jjaehyun2.github.io/mgc&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="kte" /><summary type="html">Kotlin-e 동아리 모각코 활동계획 동아리명 의미 Kotlin + e</summary></entry><entry><title type="html">2021-22 동계 모각코 개인별 목표 설정</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/dfsef2.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 개인별 목표 설정" /><published>2021-12-20T03:30:00+09:00</published><updated>2021-12-20T03:30:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/dfsef2</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/dfsef2.html">&lt;h2 id=&quot;하계-모각코-개인-목표-설정&quot;&gt;하계 모각코 개인 목표 설정&lt;/h2&gt;
 &lt;h3 id=&quot;학번-이름--202102552-유채민&quot;&gt;😀학번, 이름 : 202102552, 유채민&lt;/h3&gt;
 &lt;h3 id=&quot;목표--코틀린-이용한-안드로이드-화면-디자인&quot;&gt;🎡목표 : 코틀린 이용한 안드로이드 화면 디자인&lt;/h3&gt;
 
@@ -54,8 +111,4 @@
 &lt;ol&gt;
   &lt;li&gt;Icecream : clear&lt;/li&gt;
   &lt;li&gt;kingdom : clear&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습</summary></entry><entry><title type="html">210712 모각코 목표</title><link href="https://future-imperfect.kaptn.ru/mgc/2021/210712_1.html" rel="alternate" type="text/html" title="210712 모각코 목표" /><published>2021-07-12T20:00:00+09:00</published><updated>2021-07-12T20:00:00+09:00</updated><id>https://future-imperfect.kaptn.ru/mgc/2021/210712_1</id><content type="html" xml:base="https://future-imperfect.kaptn.ru/mgc/2021/210712_1.html">&lt;p&gt;&lt;strong&gt;목표  :  실습 문제풀이 하며 자바 복습&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;icecream&lt;/li&gt;
-  &lt;li&gt;kingdom&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습 icecream kingdom</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>유채민</name><email>vika@kaptn.ru</email></author><category term="mgc" /><summary type="html">목표 : 실습 문제풀이 하며 자바 복습</summary></entry></feed>
