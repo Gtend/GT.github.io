@@ -1,7 +1,7 @@
 ---
 title: 2024-1 하계 모각코 회고
 layout: post
-date: '2024-07-12 21:00:00'
+date: '2024-08-12 21:00:00'
 icon: github
 category: mgc
 ---
